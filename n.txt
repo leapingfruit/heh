@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+roses are red
+violets are blue
+i have a gun
+get in the van
+=======
 i finally know how to git this shit
 
+<<<<<<< HEAD
 jesse sucks!
+=======
+>>>>>>> c9968a8147cacedebd94c8d71335cba4d286f1f6
+>>>>>>> 8c05a2be6d72a238610e5ddc9ef89e3ee518f534
