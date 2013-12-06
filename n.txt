@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 roses are red
 violets are blue
 i have a gun
 get in the van
+=======
+i finally know how to git this shit
+
+>>>>>>> c9968a8147cacedebd94c8d71335cba4d286f1f6
