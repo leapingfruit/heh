@@ -48,7 +48,12 @@ JOKES
 q: what is red and smells like blue paint?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+what?
+
+=======
 >>>>>>> bc615a21c8e8e1c7ba9d84f420de39a8b2f2b81a
+>>>>>>> de1877dd45ad4a77a2ad1a6329ec49b59e500967
 =======
 ...your mom
 <<<<<<< HEAD
@@ -61,8 +66,12 @@ a: red paint
 
 
 UB3RH4X0R5555555555555 1337
+<<<<<<< HEAD
+dvfd
+=======
 
 
 JOKES FOREVERS PLZZZ...
 q: what is green and fuzzy and if it fell out a tree it would kill you?
 
+>>>>>>> 73cebdf3ceb655c52ddea2fcfa71af3a9c34fc68
