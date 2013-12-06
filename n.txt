@@ -23,4 +23,8 @@ I see four faces.
 JOKES
 q: what is red and smells like blue paint?
 
+<<<<<<< HEAD
 >>>>>>> bc615a21c8e8e1c7ba9d84f420de39a8b2f2b81a
+=======
+...your mom
+>>>>>>> 0e12105fa4987a21224fce864615e82b05175bcc
