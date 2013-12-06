@@ -42,4 +42,12 @@ a: red paint
 
 
 UB3RH4X0R5555555555555 1337
+<<<<<<< HEAD
 dvfd
+=======
+
+
+JOKES FOREVERS PLZZZ...
+q: what is green and fuzzy and if it fell out a tree it would kill you?
+
+>>>>>>> 73cebdf3ceb655c52ddea2fcfa71af3a9c34fc68
