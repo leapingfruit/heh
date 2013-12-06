@@ -10,14 +10,26 @@ i finally know how to git this shit
 jesse sucks!
 =======
 >>>>>>> c9968a8147cacedebd94c8d71335cba4d286f1f6
+<<<<<<< HEAD
+
+
+The layout of my bedroom is pretty simple. The four walls face the four cardinal directions. Tucked against the southeast corner of the room is my queen-size bed. My computer desk and chair are tucked into the northwest corner. There is a chest of drawers with an attached vanity mirror in the northeast corner and the door is in the southwest corner along the west wall. The windows are covered in blackout curtains and the walls are adorned with movie posters and comic books.
+Due to the angle of the vanity mirror and the position of the comic books I can see three of the comics when I am laying in bed. A copy of Angel: After The Fall #13, a copy of Punisher #57 and Barack The Barbarian #1. Every night I curl up in bed and should I look into the mirror I see these three faces. Even when the light is low I can clearly make out the lines and definition of each one.
+At the current moment I am huddled under my blankets with my tablet. I am trying not to pay attention to the room around me. I can hear this low humming as if it were right over me. If I look straight up I see nothing. Even still, I am more than a little unnerved. When I peek out from the covers and look at the vanity mirror...
+I see four faces.
+=======
 >>>>>>> 8c05a2be6d72a238610e5ddc9ef89e3ee518f534
 
 JOKES
 q: what is red and smells like blue paint?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 what?
 
+=======
+>>>>>>> bc615a21c8e8e1c7ba9d84f420de39a8b2f2b81a
+>>>>>>> de1877dd45ad4a77a2ad1a6329ec49b59e500967
 =======
 ...your mom
 >>>>>>> 0e12105fa4987a21224fce864615e82b05175bcc
