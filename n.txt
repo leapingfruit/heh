@@ -15,5 +15,9 @@ jesse sucks!
 JOKES
 q: what is red and smells like blue paint?
 
+<<<<<<< HEAD
 what?
 
+=======
+...your mom
+>>>>>>> 0e12105fa4987a21224fce864615e82b05175bcc
